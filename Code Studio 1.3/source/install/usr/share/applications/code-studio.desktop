@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Code Studio
+Name[de]=Code Studio
+Comment=Generator for Codetemplates
+Comment[de]=Codegenerator zum erzeugen von Codegerüsten
+Exec=/usr/share/code-studio/run.sh
+Icon=icon
+Terminal=true
+Type=Application
+Categories=Development;
+StartupNotify=false
+Name[de_DE]=Code Studio

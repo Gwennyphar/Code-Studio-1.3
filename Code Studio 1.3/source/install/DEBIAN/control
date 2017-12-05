@@ -1,0 +1,39 @@
+Package: code-studio
+Version: 1.2-1ubuntu1
+Section: Development
+Priority: extra
+Architecture: all
+Depends:
+Installed-Size: 8
+Maintainer: Nico Anders <nicoanders@freenet.de>
+Description: Codegenerator Code Studio
+ "Der Autor dieses Programms haftet nicht für Schäden an Soft- oder Hardware
+ oder Vermögensschäden, die durch das Benutzen des Programms entstehen.
+ Die vom Autor gelieferte Software (Programm und Handbuch) ist urheberrechtlich geschützt.
+ Der Kunde erhält die Software im Maschinencode. Ein Anspruch auf eine Herausgabe 
+ des Quellcodes besteht nicht. 
+ Die in der Software enthaltenen Copyright-Vermerke, Markenzeichen, 
+ andere Rechtsvorbehalte, Seriennummern sowie sonstige der Programmidentifikation 
+ dienenden Merkmale dürfen nicht verändert oder unkenntlich gemacht werden.
+ Der Verkauf oder eine Weitergabe an Dritte sowie Modifizierungen am Programm 
+ oder Quellcode selber sind untersagt.
+ Gibt der Kunde die Software mit einer vorher schriftlichen Zustimmmung des Autors 
+ an einen Dritten weiter, so stellt er die Nutzung der Software endgültig ein und 
+ behält keine Kopien zurück. Er überlässt dem Dritten die Software und Handbücher im Original.
+ 
+ Der Autor behält sich alle Rechte und Änderungen seiner Software vor.
+ 
+ 
+ Mit Code Studio erstellen Sie eine eigene Menüfunktion und die      
+ dazugehörigen Menüpunkte nach den Richtlinien der Coding Conventions.
+ Die erstellten Menüs bestehen aus einem immer gleich strukturierten 
+ und übersichtlichen Code. Diese Regelmäßigkeit in der Programmierung 
+ ermöglicht die schnelle Bearbeitung und Wartung des Quellcodes.      
+ Code Studio bringt bedeutende Vorteile mit sich:                
+ Durch die Automatisierung schrumpft die benötigte Entwicklungszeit 
+ deutlich. Der Programmierer erspart sich die fehleranfällige      
+ Programmierarbeit der einzelnen wiederkehrenden Standardfunktionen. 
+ Durch die Flexibilität des Codegenerators, lässt sich dieser auf     
+ unterschiedlichen Betriebssystemen, sowie in der Softwareindustrie
+ als auch für Ausbildungszwecke hervorragend einsetzen."
+

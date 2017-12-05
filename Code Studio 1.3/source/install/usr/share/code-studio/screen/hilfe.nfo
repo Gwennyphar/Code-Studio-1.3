@@ -1,0 +1,24 @@
+ ______________________________________________________________________________
+|                                                                              |
+|                        C O D E G E N E R A T O R  1.2                        |
+| ____________________________________________________________________________ |
+||                                                                            ||
+||      M: Zum Hauptmen_  | Enter: Weiterbl_ttern | B: Code Studio beenden    ||
+||      H: Hilfe anzeigen | Z....: Zur_ckbl_ttern | #: Modus ein-ausschalten  ||
+||                                                                            ||
+||                                                                            ||
+||      Sprachen..........: ANSI-C, C++, Python, Java                         ||
+||      Programmkopf......: Programmname, Entwickler, Version, Status, ToDo's ||
+||      Bezeichner........: Bezeichnung von Funktionen                        ||
+||      Kommentare........: Kurzbeschreibung von Funktionen                   ||
+||      Umlaute...........: _ = ae, _ = ue, _ = oe, _ = ss                    ||
+||      Men_punkte........: Tasten 0 bis 5                                    ||
+||      Bibliotheken......: Tasten 0 bis 9                                    ||
+||      Generiere mich....: Quellcode generieren                 .            ||
+||                                                            _ ('-.          ||
+||                                                           ( (00  )_        ||
+||      ---->  Eingabe:                                       \ `-'  _)       ||
+||_____________________________________________________________\_  _/_________||
+|                                                              (_)(_)          |
+|                                                                              |
+|______________________________________________________________________________|
