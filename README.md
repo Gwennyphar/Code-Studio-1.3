@@ -1,4 +1,15 @@
-# Code Studio 1.3
+# Code Studio 1.3 
+
+                                      .       .                             
+                                    .-')    .-') _                          
+       .                           ( 00 ). (  00) )                         
+     .-')___            _         (_`--_ )/ `-- '.__,-._  _                 
+    ( 00/ __\ ___    __| |  ___   / _\| |_  _   _   __| |(_)  ___           
+    /`-/ /   / _ \  / _` | / _ \  \ \ | __|| | | | / _` || | / _ \          
+    \_) /___| (_) || (_| ||  __/  _\ \| |_ | |_| || (_| || || (_) |         
+      \____/ \___/  \____| \___|  \__/ \__| \____| \____||_| \___/          
+                                                                                
+
 Code Studio creates its own menu function and the
 associated menu items according to the guidelines of the Coding Conventions.
 The created menus are always structured in the same way
